@@ -15,7 +15,7 @@ import (
 )
 
 const (
-	APIKey         = "j0o1d5UXi42EWy9wq8zHPp6l3l5ofb9"
+	APIKey         = "YOUR_API_KEY"
 	ReconnectDelay = 5 * time.Second
 	MaxRetries     = 5
 	PingInterval   = 45 * time.Second
